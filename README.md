@@ -7,7 +7,7 @@
   <img src="header.png" width="660" >
 </p>
 
-Blender dark colorscheme inspired by inspired by [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) by rebelot. 
+<p align="center">Blender dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.</p>
 
 <p align="center">
   <img src="preview.png" width="1032" >
