@@ -18,3 +18,4 @@
 - Open Blender Preferences (Edit > Preferences)
 - Switch to Themes section
 - Press Install button and select XML file
+- Alternatively put XML file into `/home/USER/.config/blender/VERSION/scripts/presets/interface_theme/`
